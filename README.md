@@ -1,6 +1,7 @@
 # scavenger
-
-尝试使用Javafx写一个爬取补天src的爬虫
+尝试使用Javafx写一个爬取补天src的工具
+未实现多线程，后续考虑添加
+爬取格式：厂商名称、厂商资产范围、域名或ip
 
 单个任务
 ![image](https://github.com/fauns-o/scavenger/assets/67944000/ea5d4e99-b105-4e51-8715-9411dde6df14)
