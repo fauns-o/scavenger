@@ -11,3 +11,6 @@
 爬取大量任务时界面卡住，需要多等一会，代码加的随机延迟
 
 ![image](https://github.com/fauns-o/scavenger/assets/67944000/29fb137b-bd33-477b-b4c9-19cde94d0197)
+
+# 参考
+https://mp.weixin.qq.com/s/W8uDjTuhQZNnKQppnC_MdA
