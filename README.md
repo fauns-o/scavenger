@@ -10,7 +10,7 @@
 
 批量爬取
 
-![image](https://github.com/fauns-o/scavenger/assets/67944000/29fb137b-bd33-477b-b4c9-19cde94d0197)
+![image](https://github.com/fauns-o/scavenger/assets/67944000/4522771d-fe31-4eb7-8c3e-7af656baa0f9)
 
 # 参考
 https://mp.weixin.qq.com/s/W8uDjTuhQZNnKQppnC_MdA
