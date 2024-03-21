@@ -6,7 +6,7 @@
 
 单个任务
 
-![image](https://github.com/fauns-o/scavenger/assets/67944000/ea5d4e99-b105-4e51-8715-9411dde6df14)
+![image](https://github.com/fauns-o/scavenger/assets/67944000/9c32bf8a-95f2-4a2a-b04a-0c13d0b5b62c)
 
 批量爬取
 
